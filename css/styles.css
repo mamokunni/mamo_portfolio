@@ -1,5 +1,26 @@
 .projects{
   float:left;
-  width: 350px;
+  width: 250px;
   background-color: lightblue;
+  text-align: center;
+  margin-right: 8px;
+  border-right: 3px solid lightgreen;
+  padding-top: 20px;
+  padding-right: 30px;
+}
+ul{
+  list-style: none;
+}
+
+img{
+  border-radius: 50%;
+  padding-left: 2px;
+  padding-right: 2px;
+}
+
+.textbox{
+  float:left;
+  background-color: lightyellow;
+  margin-top: 80px;
+
 }
