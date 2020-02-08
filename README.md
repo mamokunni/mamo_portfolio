@@ -6,8 +6,8 @@
 ## Project setup instructions
 To start using this project use the following commands:
 
-- `git clone https://github.com/moringaschool/hello-world.git`
-- `cd hello-world`
+- `git clone https://github.com/mamokunni/mamo_portfolio.git`
+- `cd mamo_portfolio`
 - `atom .`
 - `code .` [//]: # (this is if Visual Studio Code is your preferred text editor)
 
