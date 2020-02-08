@@ -74,11 +74,15 @@ background-color: #D1D3C9;
 .column{
 float: left;
 width: 280px;
+height: 550px;
 padding: 20px;
-margin: 20px;
+margin-left: 20px;
+margin-right: 20px;
+margin-top: 20px;
 border: 2px solid green;
 list-style-type: circle;
 background-color: lightblue;
+
 
 
 }
